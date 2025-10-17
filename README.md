@@ -7,3 +7,5 @@ So I created this simple page to list all the payment methods I accept.
 [Here the GitHub page](https://atrogolo.github.io/thanks/)
 
 ¯\\\_(ツ)\_/¯
+
+asd
